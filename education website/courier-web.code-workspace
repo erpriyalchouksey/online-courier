@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "education website",
+			"path": "../.."
+		},
+		{
+			"name": "final",
+			"path": "../../../../final"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
