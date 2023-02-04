@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../courier"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "education website"
+	}
+}
